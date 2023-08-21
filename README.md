@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from India :)</h3>
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/wCJPW">
 
+
 - 🔭 I’m currently working on **Social Media Application**
 
 - 🌱 I’m currently learning **TypeScript , Node JS...**
