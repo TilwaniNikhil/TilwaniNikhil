@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Myself Nikhil Tilwani</h1>
 <h3 align="center">A passionate developer from India :)</h3>
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/wCJPW">
-
+<br>
 - 🔭 I’m currently working on **Social Media Application**
 
 - 🌱 I’m currently learning **TypeScript , Node JS...**
